@@ -1,0 +1,2 @@
+source /home/prady/Projects/pspl-ac/build/bootloader/gdbinit/symbols
+source /home/prady/Projects/pspl-ac/build/bootloader/gdbinit/connect

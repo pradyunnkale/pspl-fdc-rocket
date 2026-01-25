@@ -1,0 +1,10 @@
+idf_component_register(
+	SRCS
+		raw-state/raw-state.h
+		ekf/ekf.h
+		dynamics/dynamics.h
+	INCLUDE_DIRS
+		raw-state
+		ekf
+		dynamics
+)

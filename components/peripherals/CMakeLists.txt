@@ -1,0 +1,16 @@
+idf_component_register(
+	SRCS
+		dps310/dps310.c
+		icm42670/icm42670.c
+		lora-ra02/lora-ra02.c
+		mmc5983/mmc5983.c
+		neom9n/neom9n.c
+		sdcard/sdcard.c
+	INCLUDE_DIRS
+		dps310
+		icm42670
+		lora-ra02
+		mmc5983
+		neom9n
+		sdcard
+)
